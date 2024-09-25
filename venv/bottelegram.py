@@ -1,8 +1,8 @@
 import telebot
 import requests
 
-CHAVE_API = "7689773573:AAGj-pwYLveXgb8WL_FwzLWOmXVn_hwT5o8"
-BOOK_API = "AIzaSyBpFJMQC0nrz0OO0yQ-yFXu32T81qiKGfc"
+CHAVE_API = "{KEY}"
+BOOK_API = "{KEY}"
 
 bot = telebot.TeleBot(CHAVE_API)
 # Armazena o estado atual da conversa
